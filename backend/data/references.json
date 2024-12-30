@@ -1,0 +1,20 @@
+{
+  "rheumatoid_arthritis": [
+    {
+      "title": "2010 Rheumatoid arthritis classification criteria",
+      "authors": "Aletaha D, et al.",
+      "journal": "Arthritis & Rheumatism",
+      "year": 2010,
+      "doi": "10.1002/art.27584"
+    }
+  ],
+  "systemic_lupus_erythematosus": [
+    {
+      "title": "2019 EULAR/ACR classification criteria for SLE",
+      "authors": "Aringer M, et al.",
+      "journal": "Annals of the Rheumatic Diseases",
+      "year": 2019,
+      "doi": "10.1136/annrheumdis-2018-214819"
+    }
+  ]
+}

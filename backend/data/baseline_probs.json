@@ -1,0 +1,18 @@
+{
+  "rheumatoid_arthritis": {
+    "base_rate": 0.01,
+    "risk_factors": {
+      "family_history": 2.0,
+      "smoking": 1.5,
+      "female": 1.3
+    }
+  },
+  "systemic_lupus_erythematosus": {
+    "base_rate": 0.001,
+    "risk_factors": {
+      "family_history": 2.5,
+      "female": 9.0,
+      "african_american": 2.0
+    }
+  }
+}
